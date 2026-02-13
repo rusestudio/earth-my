@@ -1,33 +1,22 @@
-HTML/CSS Starter Project
-=================
+# Melati - Find Your Flower Name
 
-This is an example of the final code for the project that we will create during the workshop.
+A fun interactive quiz website that helps you discover your unique flower name based on your personality!
 
+## What It Does
 
-The Project Files
-------------
+1. **Choose Your Favorite Color** - Pick from Light, Bright, or Other colors
+2. **Choose Your Favorite Scent** - Select Woody, Ocean, or Fruits
+3. **Get Your Flower Name** - Based on your choices, discover which flower matches your personality:
+   - Light Color + Woody = Sunflower, Aster, or Tulips
+   - Bright Color + Ocean = Lotus, Daisy, or Rose
+   - Other Color + Fruits = Any flower you like!
 
-### ← README.md
+## How To Use
 
-That's this file, where you can tell people what your cool website does and how you built it.
+Simply click on the images to navigate through the quiz. Each selection smoothly scrolls you to the next section until you reach your final flower name.
 
-### ← index.html
+## Files
 
-That's where all of the HTML, i.e. the content, is located. 
-
-### ← style.css
-
-That's where we're going to be writing all of the CSS for the page, i.e. the styling (presentational customizations) are located.
-
-### ← assets
-
-That's where you would save assets for your website.
-
-We won't be using that folder in this project but you could easily use this for assets instead of the unsplash image that we added to the project. You can drag in `assets`, like images or music, to add them to your project.
-
-### Other Folders
-
-### Finished Project
-See the [finished project](https://glitch.com/~html-css-workshop). (It may not be exactly the same as the page you worked on today, as we are always changing the workshop!)
-
-## Get a PDF file of the Presentation
+- `index.html` - Main page content
+- `style.css` - Page styling
+- `client.js` - JavaScript functionality
