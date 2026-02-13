@@ -20,3 +20,6 @@ Simply click on the images to navigate through the quiz. Each selection smoothly
 - `index.html` - Main page content
 - `style.css` - Page styling
 - `client.js` - JavaScript functionality
+
+## Notice
+This project was supposed to be an intractive html web with glitch elements, but due to glitch shutdown it just supported by css 
